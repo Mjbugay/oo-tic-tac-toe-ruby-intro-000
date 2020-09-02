@@ -71,5 +71,6 @@ def current_player
   return player
 end
   
-
+def won?
+  
 end
